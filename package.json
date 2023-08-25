@@ -2,10 +2,10 @@
   "name": "smart-coders",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://flashforward55.github.io/smart-coders",
+  "homepage": "https://YulyaVlasenko.github.io/Mimiho",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /smart-coders/"
+    "build": "parcel build src/*.html --public-url /Mimiho/"
   },
   "repository": {
     "type": "git",
